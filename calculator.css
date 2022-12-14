@@ -1,0 +1,29 @@
+.main{
+    margin: auto;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(223, 235, 235);
+}
+h1{
+    text-align: center;
+}
+.input{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 30px;
+    width: 410px;
+    pointer-events: none;
+}
+.table{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+}
+.button{
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+}
